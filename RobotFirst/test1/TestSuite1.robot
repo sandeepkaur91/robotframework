@@ -14,6 +14,8 @@ MyFirstTest
 my second test
     log    hello program 1  
     
+my third test
+    log    hi program3
 FirstSeleniumTest
     Open Browser    https:google.com    chrome
     Set Browser Implicit Wait    5
