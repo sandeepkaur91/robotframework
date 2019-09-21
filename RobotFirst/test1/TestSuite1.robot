@@ -9,7 +9,10 @@ Test Teardown    Log    inside test case teardown
 
 *** Test Cases ***
 MyFirstTest
-    Log    hello world    
+    Log    hello world  
+    
+my second test
+    log    hello program 1  
     
 FirstSeleniumTest
     Open Browser    https:google.com    chrome
