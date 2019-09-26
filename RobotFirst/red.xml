@@ -3,6 +3,7 @@
     <configVersion>2</configVersion>
     <relativeTo>WORKSPACE</relativeTo>
     <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/Sandeep/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/SeleniumLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="userKeywords" path="RobotFirst/External_Keywords/userKeywords.py"/>
     <pythonpath/>
     <classpath/>
     <excludedForValidation/>
